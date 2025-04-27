@@ -1,6 +1,6 @@
 package com.example.wishlist
 
-import HomeView
+
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
